@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CARLOSndDUNOBS
 - 👀 I’m interested in RPG games and DevThings
-- 🌱 I’m currently learning JavaScrip (HTML and CSS).
+- 🌱 I’m currently learning JavaScript (HTML and CSS).
 - 📫 How to reach me ... Well, You find me on the instagram 
 - 😄 Pronouns: ... he, his.
 - ⚡ Fun fact: ... So, I like cats, but they hate me like hell. Life sucks!
